@@ -1,1 +1,1 @@
-# tc2rst
+# tc2doc
